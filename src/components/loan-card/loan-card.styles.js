@@ -7,9 +7,6 @@ export const useStyles = makeStyles({
     maxWidth: 600,
     margin: "10px auto",
   },
-  info: {
-    marginTop: theme.spacing(1),
-  },
   actions: {
     marginTop: theme.spacing(10),
   },
